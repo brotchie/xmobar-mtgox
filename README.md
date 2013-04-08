@@ -1,5 +1,7 @@
 # MtGox Ticker for Xmobar
 
+![Example](mtgox.png)
+
 A simple Python script that pulls the last transacted price from the MtGox bitcoin exchange.
 
 ## Setup
